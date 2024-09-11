@@ -12,7 +12,7 @@ public class App {
         String clue2 = "Neljä kirjainta";
         String clue3 = "Kaksi kirjaimista ovat samoja";
         String clue4 = "Samat kirjaimet ovat 'm'";
-        String clue5 = "1. Kirjain on 'E'";
+        String clue5 = "Ensimmäinen kirjain on 'E'";
         String clue6 = "Viimeinen kirjain on 'a'";
 
         System.out.println("Tervetuloa arvauspeliin!");
